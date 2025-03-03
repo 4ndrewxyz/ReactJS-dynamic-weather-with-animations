@@ -13,6 +13,9 @@ A modern, responsive weather application built with React that provides real-tim
 - **Error Handling**: Graceful error notifications for invalid cities or API issues
 - **Random City Feature**: Discover the weather in random cities around the world
 
+- ![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmEyNTgzcHQ4NTBvcmRkOXN3dDl6Z3FjMnVhbDcwdWEwbXdqMDB3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pmR3gWqqCYQFwHqu9B/giphy.gif)
+
+
 ## Technologies Used
 - React.js
 - CSS3 with advanced animations
